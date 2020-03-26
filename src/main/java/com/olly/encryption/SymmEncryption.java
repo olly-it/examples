@@ -1,4 +1,4 @@
-package com.olly;
+package com.olly.encryption;
 
 import java.security.InvalidAlgorithmParameterException;
 import java.security.InvalidKeyException;
