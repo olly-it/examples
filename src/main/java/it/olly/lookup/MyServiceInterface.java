@@ -1,4 +1,4 @@
-package com.olly.lookup;
+package it.olly.lookup;
 
 public interface MyServiceInterface {
     String compute(String input);

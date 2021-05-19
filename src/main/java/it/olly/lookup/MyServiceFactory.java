@@ -1,4 +1,4 @@
-package com.olly.lookup;
+package it.olly.lookup;
 
 import java.util.HashMap;
 import java.util.List;

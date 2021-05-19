@@ -1,6 +1,9 @@
-package com.olly.lookup;
+package it.olly.lookup;
 
 import org.junit.jupiter.api.Test;
+
+import it.olly.lookup.MyServiceFactory;
+import it.olly.lookup.MyServiceInterface;
 
 public class LookupTester {
 

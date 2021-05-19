@@ -1,6 +1,6 @@
-package com.olly.lookup.impl;
+package it.olly.lookup.impl;
 
-import com.olly.lookup.MyServiceInterface;
+import it.olly.lookup.MyServiceInterface;
 
 public class MyServiceOne implements MyServiceInterface {
 
