@@ -15,7 +15,7 @@ public class Pinwheel2DPrinter extends JPanel {
     // configs
     private static final double pi2 = Math.PI * 2;
     private final static int SIZE = 300; // paint size
-    private final static Color[] colors = new Color[] { // wheen will be divided by (color.length) slices
+    private final static Color[] colors = new Color[] { // wheel will be divided by (color.length) slices
             Color.GREEN, // slice #1
             Color.RED, // slice #2
             Color.BLUE, // slice #3
